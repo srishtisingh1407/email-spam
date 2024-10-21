@@ -7,8 +7,8 @@ const spamKeywords = [
     "earn thousands",
     "click the link",
     "no experience required", 
-    "Certificate Program",
-    "Mentorship Projects"
+    "certificate Program",
+    "mentorship Projects"
 ];
 
 const emails = [
