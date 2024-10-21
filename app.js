@@ -6,7 +6,9 @@ const spamKeywords = [
     "work from home",
     "earn thousands",
     "click the link",
-    "no experience required"
+    "no experience required", 
+    "Certificate Program",
+    "Mentorship Projects"
 ];
 
 const emails = [
